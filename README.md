@@ -1,8 +1,10 @@
-#AJAX
->**AJAX** = Asynchronous JavaScript And XML
-* AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes.
+<h1>AJAX</h1>
+* **AJAX** = Asynchronous JavaScript And XML 
+* AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes. >
 * AJAX just uses a combination of:
+
     *A browser built-in `XMLHttpRequest` object (to request data from a web server)
+    
 - JavaScript and HTML DOM (to display or use the data)
 
 **How AJAX works:**
