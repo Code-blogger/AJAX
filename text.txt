@@ -1,0 +1,2 @@
+<h2>Welcome to JavaScript!!</h2>
+<p>This Example will show you How the AJAX works.</p>

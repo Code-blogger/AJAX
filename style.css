@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    color: blue;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+p,
+div {
+    text-align: center;
+    color: grey;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    background-color: grey;
+    border-radius: 30%;
+    text-align: center;
+}
+
+button:hover {
+    color: white;
+    background-color: blue;
+}
