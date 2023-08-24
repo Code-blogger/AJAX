@@ -24,3 +24,4 @@
       <li>JavaScript performs proper actions (like page updates).</li>
    </ul>
 </div>
+<a href="https://www.notion.so/codeblogger/AJAX-9ac4a910f97d4cf5bd306cbeebf83539" target="_blank">🔗<strong>Read More....</strong></a>
